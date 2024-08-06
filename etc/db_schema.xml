@@ -20,7 +20,7 @@
         </index>
         
 <!--
-Test for Commit
+Test 
 <index referenceId="CMS_BLOCK_TITLE_IDENTIFIER_CONTENT" indexType="fulltext">
     <column name="title"/>
     <column name="meta_keywords"/>
